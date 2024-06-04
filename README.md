@@ -1,4 +1,4 @@
-# Semaforo 2 Peatonal y Vehículos + Pulsador (Prioridad Peatones)
+# Semáforo 2 Peatonal y Vehículos + Pulsador (Prioridad Peatones)
 
 ## Descripción
 Este programa implementa un semáforo para peatones y vehículos con un pulsador de llamada para peatones. Cuando se activa el pulsador, el semáforo pasa inmediatamente a la fase de prioridad para peatones, interrumpiendo el ciclo normal del semáforo.
