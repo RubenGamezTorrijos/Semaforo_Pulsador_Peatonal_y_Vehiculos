@@ -203,6 +203,7 @@ loop:
   rjmp loop
 
 check_button:
+  ; Verificación del botón (Pulsador)
   in r19, _SFR_IO_ADDR(PIND)
   sbrs r19, PD6
   rjmp reset_to_fase_5
