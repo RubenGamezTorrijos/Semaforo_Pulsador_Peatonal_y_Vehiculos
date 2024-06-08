@@ -1,5 +1,9 @@
 # Semáforo 2 Pulsador Peatonal y Vehículos (Prioridad Peatones)
 
+![YouTube_RubenGamezTorrijos_UE_EstructuraComputadores_Semaforo_Pulsador_Actividad_2](https://github.com/RubenGamezTorrijos/Semaforo_Pulsador_Peatonal_y_Vehiculos/assets/19588354/3af44f5b-4aa1-4129-ad44-bed3e06d5705)
+
+Ver vídeo en YouTube: https://www.youtube.com/watch?v=ufyXFuhBLI4
+
 ## Descripción
 Este programa implementa un semáforo para peatones y vehículos con un pulsador de llamada para peatones. Cuando se activa el pulsador, el semáforo pasa inmediatamente a la fase de prioridad para peatones, interrumpiendo el ciclo normal del semáforo.
 
