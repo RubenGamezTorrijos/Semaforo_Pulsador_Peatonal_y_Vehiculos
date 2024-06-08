@@ -12,6 +12,8 @@ Este programa implementa un semáforo para peatones y vehículos con un pulsador
 - LEDs para peatones conectados al puerto D, bits 2 y 3.
 - Un pulsador para llamada de peatones conectado al pin 6 del puerto D.
 
+![Wokwi_Semaforo_2_Pulsador_Fondo_Gris](https://github.com/RubenGamezTorrijos/Semaforo_Pulsador_Peatonal_y_Vehiculos/assets/19588354/bd90f386-6ad9-4bf2-9729-f7914560e7b9)
+
 ## Funcionamiento
 El semáforo sigue un ciclo continuo a través de las cinco fases definidas. Cuando se activa el pulsador de llamada para peatones, el semáforo pasa inmediatamente a la fase 5, que otorga prioridad a los peatones. Después de completar la fase de prioridad para peatones, el semáforo continúa con el ciclo normal.
 
